@@ -1,37 +1,59 @@
-# 積み基板を作らないための電子工作入門
+# ワンストップLT
 
 ## 概要説明
-積み基板を作らないための電子工作入門
+本のタイトル：ワンストップLT
 
 ## この本の目的
-積み基板を作らないための電子工作入門についてかきましょう
+LT会って、参加すると楽しいですよね。学びもあり、単純に聞いてるだけでも楽しいし、あとの懇親会も・・・
 
-目次メモはこちら。自由に編集、追加ください。(2021/7/10追加)
-
-https://hackmd.io/0_AP2L9aRauxmQu0hyUpkQ
+LTとは
+LT会に参加してみよう
+LTを聞くコツ
+LTをやってみよう
+LT(発表・登壇)のコツ
+LT会を主催してみよう
+などなど。
 
 ## 執筆・配布スケジュール
-募集開始・環境構築：2021月5月8日
-章目次確定：2021年x月xx日
-本文初稿：2021年x月xx日
-レビュー＆追記：2021年x月xx日
-オンライン発行：2021年x月xx日
+募集開始・環境構築：2023月9月28日
+本文初稿：2023年10月20日
+原稿締め切り：2023年10月30日
+発行:2023年11月25日　技書博(蒲田:大田区産業プラザPiO)
 
 ## 著者紹介兼あとがき
 Contributers.re内に、テンプレートに従って記入ください。
 
 ## 執筆にあたってのお願い
-CIでコンパイルが通ることを確認してください。エラーのまま放置はなるべくやめてください。
+GitHubで原稿ファイルを管理しています。
 
-Confrictが発生した場合は、解決お願いします。
+まずは、https://github.com/onestop-techbook/LTbook からCloneしてください。
+原稿が書けたら、当該リポジトリにプルリクを出してください。
+適宜マージします。
+
+見本の章を参考に、Markdownで本文を書くとスムーズです。
+
+### 命名規則
+chap-名前-title.md
+
+画像は、
+/images/chap-名前-title/xx.png
+として格納してください。
+
+ltbook.jsonの下の方に、執筆原稿を参照しているところがあります。ここにファイル名を追記してください。
+
+### その他の注意
+
+Confrictが発生した場合は、解決お願いします。または、ご相談ください。
 
 push -f等はやめましょう。（歴史を書き換えてはいけません。
 
 相談事：
 Issue立ててください。
 
-雑談、ざっくばらんな相談については、Slackがあります。
-参加方法は、親方まで。https://twitter.com/oyakata2438
+雑談、ざっくばらんな相談については、エンジニアの登壇を応援する会のSlackがあります。
+#howto-lt-book-202311にご参加ください。
+
+その他不明点、相談事は親方まで。https://twitter.com/oyakata2438
 
 ## 執筆方法
 
@@ -41,29 +63,23 @@ Issue立ててください。
 * [Re:VIEWチートシート](https://gist.github.com/erukiti/c4e3189dda179a0f0b73299fb5787838) を作ってみたので、参考にしてみてください。
 
 また、プレーンテキストやWordとかでの提出も可能です。編集部にてコンバートします。
-
-## CI
-https://app.wercker.com/oyakata2438/tsumikiban/runs
-でPDFが書きだされます。
-一番上のBuildをクリックすると展開されるので、
-Output Artifactをクリックして、Download artifactをクリックすると、
-tarで固めたpdfがダウンロードできます。
+Slackのhowto-lt-book-202311にてご相談ください。
 
 ## インストール
-
-細かい準備(TeX入れたり)は[『技術書をかこう！』](https://github.com/TechBooster/C89-FirstStepReVIEW-v2)に準じます。
 
 ### Dockerを使う方法
 
 Dockerを使うのが一番手軽です。とても面倒なTeXのインストールなどを全てDockerでやってくれるため、何も悩むことはありません。
 
+Dockerがある環境ならば、batファイルまたはshファイル叩くとPDFが生成されます。
+
 ```sh
 $ docker run -t --rm -v $(pwd):/book vvakame/review:3.2 /bin/bash -ci "cd /book && yarn && yarn build"
 ```
 
-このコマンドの実行が成功すれば、コンパイルされたPDFが、`.review/Onestop-Online.pdf` として出力されています。
+このコマンドの実行が成功すれば、コンパイルされたPDFが、`.review/OnestopLT.pdf` として出力されます。
 
-Mac なら `open .review/Onestop-Online.pdf` で PDF を開くことができます。
+Mac なら `open .review/OnestopLT.pdf` で PDF を開くことができます。
 
 ### WindowsでReviewを使う方法
 

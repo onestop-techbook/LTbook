@@ -7,6 +7,6 @@
   },
   "scripts": {
     "clean": "rm -rf .review",
-    "build": "easybooks furikaeri.json"
+    "build": "easybooks ltbook.json"
   }
 }
