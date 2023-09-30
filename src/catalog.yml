@@ -1,8 +1,0 @@
-PREDEF:
-  - preface.re
-CHAPS:
-  - chap-oyakata-why.re
-  - chap-kawahara-ng.re
-POSTDEF:
-  - contributors.re
-  - postscript.re

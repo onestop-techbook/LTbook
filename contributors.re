@@ -51,6 +51,8 @@
 大阪在住。SIerから社内SEになりましたが現在転職検討中…
 アマチュア無線に浸かりきっていた頃を思い出して書いてみました。なつい。
 
+　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -63,6 +65,21 @@
     \hspace{1ex}
 //}
 一時期は安くて使い勝手のよいマイコンを探してはQiitaにセットアップの記事を書いていたerukitiです。大体Lチカで終わるタイプの人です。ここ二年くらいは、せいぜい自作キーボードを組み立てた程度で、電子工作からは遠ざかってました。この本をきっかけに久々に何か作ってみるかという気持ちになったのできっと何か作るでしょう。きっと…。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        さっぴー川原 @sapi https://twitter.com/sapi\\
+        サークル名：ブライトシステム https://ブライトシステム/
+        \end{minipage}
+    \hspace{1ex}
+//}
+さっぴー川原
 
 == 表紙イラスト・デザイン　
 
