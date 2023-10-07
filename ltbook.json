@@ -27,7 +27,9 @@
     "PREDEF": ["preface.re"],
     "CHAPS": [
       "chap-oyakata-why.md",
-      "chap-kawahara-ng.re"
+      "chap-kawahara-ng.re",
+      "chap-y_suzuki-ldl.md",
+      "chap-oyakata-1stLT.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
