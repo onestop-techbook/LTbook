@@ -75,11 +75,11 @@
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         さっぴー川原 @sapi https://twitter.com/sapi\\
-        サークル名：ブライトシステム https://ブライトシステム/
+        サークル名：ブライトシステム https://bright-system.booth.pm/
         \end{minipage}
     \hspace{1ex}
 //}
-さっぴー川原
+ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業を経て、総合開発企業のシニアエンジニア。多くの案件を経験しており、対応できる開発言語は10を超える。
 
 == 表紙イラスト・デザイン　
 
