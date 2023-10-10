@@ -29,7 +29,8 @@
       "chap-oyakata-why.md",
       "chap-kawahara-ng.re",
       "chap-y_suzuki-ldl.md",
-      "chap-oyakata-1stLT.md"
+      "chap-oyakata-1stLT.md",
+      "chap-iwamot-tldr.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
