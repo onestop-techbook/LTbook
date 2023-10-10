@@ -30,7 +30,9 @@
       "chap-kawahara-ng.re",
       "chap-y_suzuki-ldl.md",
       "chap-oyakata-1stLT.md",
+      "chap-iwamot-tldr.md",
       "chap-jun-LT.md"
+
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

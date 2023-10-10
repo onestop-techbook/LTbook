@@ -81,6 +81,21 @@
 //}
 ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業を経て、総合開発企業のシニアエンジニア。多くの案件を経験しており、対応できる開発言語は10を超える。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/iwamot_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        岩本隆史 @iwamot https://twitter.com/iwamot\\
+        ENECHANGE株式会社VPoT兼CTO室マネージャー
+        \end{minipage}
+    \hspace{1ex}
+//}
+2023年はAWS・SRE・生成系AIといったテーマで何度かLTしました。それを通じてスライド作りのスタイルが固まってきたため、文章化してみた次第です。自分の意見を手短に伝えられるLTが大好きなので、今後も機会を見つけて話そうと思っています。
+
 == 表紙イラスト・デザイン　
 
 //embed{
