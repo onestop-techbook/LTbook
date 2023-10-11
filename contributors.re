@@ -96,6 +96,23 @@
 //}
 2023年はAWS・SRE・生成系AIといったテーマで何度かLTしました。それを通じてスライド作りのスタイルが固まってきたため、文章化してみた次第です。自分の意見を手短に伝えられるLTが大好きなので、今後も機会を見つけて話そうと思っています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        yumechi @\_\_yumechi https://twitter.com/\_\_yumechi\\
+        @\_\_yumechi@misskey.systems\\
+        サークル名： 焼肉のために本気出します
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりPythonのソフトウェアエンジニアやってます。たまに焼肉のために本気を出して同人誌を書くこともあります。この本のアイコンは技術書典のサークル画像として設定しているものです。本当はゲームばっかりしていたいです。
+
+
 == 表紙イラスト・デザイン　
 
 //embed{
