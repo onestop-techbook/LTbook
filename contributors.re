@@ -96,6 +96,21 @@
 //}
 2023年はAWS・SRE・生成系AIといったテーマで何度かLTしました。それを通じてスライド作りのスタイルが固まってきたため、文章化してみた次第です。自分の意見を手短に伝えられるLTが大好きなので、今後も機会を見つけて話そうと思っています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/bikiniki_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        びきニキ @BkNkbot https://twitter.com/BkNkbot\\
+        「ハックツハッカソン」の運営スタッフ（学生参加・企業協賛待ってます！）
+        \end{minipage}
+    \hspace{1ex}
+//}
+ギリギリ大学4年生。技術コミュニティの運営を気ままにやっています。なんかずっと時間に追われているので、そろそろゆっくりバチカン市国でも行ってお休みしたいです。
+
 == 表紙イラスト・デザイン　
 
 //embed{
