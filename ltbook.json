@@ -32,6 +32,7 @@
       "chap-oyakata-1stLT.md",
       "chap-iwamot-tldr.md",
       "chap-jun-LT.md",
+      "chap-bikiniki.md",
       "chap-yumechi-urawaza.re"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
