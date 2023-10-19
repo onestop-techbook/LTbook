@@ -33,7 +33,9 @@
       "chap-iwamot-tldr.md",
       "chap-jun-LT.md",
       "chap-bikiniki.md",
-      "chap-yumechi-urawaza.re"
+      "chap-yumechi-urawaza.re",
+      "chap-kawamata-LTpowerword.md",
+      "chap-pauli_agile.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
