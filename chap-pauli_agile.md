@@ -1,6 +1,6 @@
 # LTで始めるコミュニケーション
 
-パウリ / 株式会社 ビットキー VPoE Office /  EM、アジャイルコーチ、技術広報
+<div class="flushright">パウリ / 株式会社 ビットキー VPoE Office /  EM、アジャイルコーチ、技術広報</div>
 
 ## LTは自己開示である
 

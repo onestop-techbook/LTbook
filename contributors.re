@@ -51,20 +51,6 @@
 大阪在住。SIerから社内SEになりましたが現在転職検討中…
 アマチュア無線に浸かりきっていた頃を思い出して書いてみました。なつい。
 
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/erukiti_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        えるきち @erukiti https://twitter.com/erukiti\\
-        サークル名：東京ラビットハウス https://rabbit-house.tokyo/
-        \end{minipage}
-    \hspace{1ex}
-//}
-一時期は安くて使い勝手のよいマイコンを探してはQiitaにセットアップの記事を書いていたerukitiです。大体Lチカで終わるタイプの人です。ここ二年くらいは、せいぜい自作キーボードを組み立てた程度で、電子工作からは遠ざかってました。この本をきっかけに久々に何か作ってみるかという気持ちになったのできっと何か作るでしょう。きっと…。
 
 　
 
@@ -141,6 +127,20 @@
 //}
 株式会社ビットキー/ EM Oasis運営/アジャイルひよこクラブ運営/EM読書会運営/ アジャイルコーチやってるパウリです！エンジニアがいきがいと感じられるような組織・環境を構築したい！ 発言は個人の見解です
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nakamura.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        中村　修三 https://twitter.com/ShuzoN\_\_
+        \end{minipage}
+    \hspace{1ex}
+//}
+必要な人に、違いと良さを伝える人。
+書く、図示、イベント運営、ハイブリッド配信が得意。CARTA HOLDINGS 技術広報 
 
 == 表紙イラスト・デザイン　
 
