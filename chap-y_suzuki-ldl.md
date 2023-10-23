@@ -86,6 +86,8 @@ OSSのライブラリの内部でタイムアウト値が10秒で、ジョブが
 
 ここまで読んでいただけたらわかる通り、LT以外にも応用できますね。何のネタだしにも使えます。これでネタ貴族です。あとはスライドを作って話すだけです。
 
-[^1]: [cronジョブ監視サービスCronitorの設定をコード管理してCI/CDする](https://made.livesense.co.jp/entry/2023/04/05/080000)
-[^2]: [マイナーなSaaSのCIを作っているんだが俺はもうダメかもしれない](https://made.livesense.co.jp/entry/2023/07/12/080000)
-[^3]: [初めてOSSにコントリビュートした話](https://made.livesense.co.jp/entry/2023/09/28/080000)
+[^1]: cronジョブ監視サービスCronitorの設定をコード管理してCI/CDする https://made.livesense.co.jp/entry/2023/04/05/080000
+
+[^2]: マイナーなSaaSのCIを作っているんだが俺はもうダメかもしれない https://made.livesense.co.jp/entry/2023/07/12/080000
+
+[^3]: 初めてOSSにコントリビュートした話 https://made.livesense.co.jp/entry/2023/09/28/080000

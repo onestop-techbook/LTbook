@@ -140,7 +140,20 @@
     \hspace{1ex}
 //}
 必要な人に、違いと良さを伝える人。
-書く、図示、イベント運営、ハイブリッド配信が得意。CARTA HOLDINGS 技術広報 
+書く、図示、イベント運営、ハイブリッド配信が得意。CARTA HOLDINGS 技術広報
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yjszk.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Yuji Suzuki https://twitter.com/yjszk666\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SREをやっています、競輪場でMacBookを広げていたら多分私です。
 
 == 表紙イラスト・デザイン　
 
