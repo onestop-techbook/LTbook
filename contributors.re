@@ -142,6 +142,21 @@
 必要な人に、違いと良さを伝える人。
 書く、図示、イベント運営、ハイブリッド配信が得意。CARTA HOLDINGS 技術広報 
 
+　
+
+/embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/jun_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        じゅん @jun\_mh4g https://twitter.com/jun\_mh4g\\
+        Hokkaido MotionControl Network (DoMCN)
+        \end{minipage}
+    \hspace{1ex}
+//}
+ハードルを下げる係。地方XR開発者コミュニティの運営・お知らせ担当をしています。他の地域のコミュニティの応援をしに、全国に出かけていく癖があります。電子顕微鏡がすき。
+
 == 表紙イラスト・デザイン　
 
 //embed{
