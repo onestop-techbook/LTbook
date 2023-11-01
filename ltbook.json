@@ -35,7 +35,8 @@
       "chap-yumechi-urawaza.re",
       "chap-kawamata-LTpowerword.md",
       "chap-pauli_agile.md",
-      "chap-nakamura-kaisu.re"
+      "chap-nakamura-kaisu.re",
+      "chap-picopico.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
