@@ -135,13 +135,14 @@
         \includegraphics[width=.75\linewidth]{images/contributors/nakamura.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        中村　修三 https://twitter.com/ShuzoN\_\_
+        中村　修三 https://twitter.com/ShuzoN\_\_\\
         \end{minipage}
     \hspace{1ex}
 //}
 必要な人に、違いと良さを伝える人。
 書く、図示、イベント運営、ハイブリッド配信が得意。CARTA HOLDINGS 技術広報
 
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -157,7 +158,7 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
 
 　
 
-/embed{
+//embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/jun_400x400.jpg}
@@ -172,19 +173,6 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
 
 == 表紙イラスト・デザイン　
 
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        湊川あい @llminatoll https://twitter.com/llminatoll\\
-        サークル名：湊川あいの、わかば家。 https://note.com/llminatoll
-        \end{minipage}
-    \hspace{1ex}
-//}
-湊川あいです。今回も表紙イラストを担当させていただきました。ありがとうございます！
-コンデンサの画像を検索しながら、基板をそれっぽく描くのが楽しかったです。『積みタスク』もどうにかしたいです。
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
