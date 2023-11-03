@@ -168,6 +168,21 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
 //}
 ハードルを下げる係。地方XR開発者コミュニティの運営・お知らせ担当をしています。他の地域のコミュニティの応援をしに、全国に出かけていく癖があります。電子顕微鏡がすき。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawamata.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        かわまた/DevRel @r\_kawamata https://twitter.com/r\_kawamata\\
+        株式会社タイミー
+        \end{minipage}
+    \hspace{1ex}
+//}
+エンジニア箱推し。仕事は推し活。タイミーのDevRelとして色んなカンファレンスに会社のお金をぶち込んでます。
+
 == 表紙イラスト・デザイン　
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。

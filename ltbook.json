@@ -37,7 +37,8 @@
       "chap-pauli_agile.md",
       "chap-nakamura-kaisu.re",
       "chap-picopico.md",
-      "chap-ditflame_LT_OO.md"
+      "chap-ditflame_LT_OO.md",
+	  "chap-oyakata-smallLT.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
