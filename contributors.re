@@ -115,14 +115,19 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/pauli_agile_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/pauli.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         パウリ @pauli\_agile https://twitter.com/pauli\_agile\\
+		株式会社ビットキー
         \end{minipage}
     \hspace{1ex}
 //}
-株式会社ビットキー/ EM Oasis運営/アジャイルひよこクラブ運営/EM読書会運営/ アジャイルコーチやってるパウリです！エンジニアがいきがいと感じられるような組織・環境を構築したい！ 発言は個人の見解です
+株式会社ビットキーでEM、アジャイルコーチ、技術広報をしています
+
+人生ではeighter、Dヲタ、プリキュアおじさん、腐男子をしています
+
+趣味はアニメ、カメラ、ディズニー、ゴルフ、サウナ、ダーツ、ボードゲーム、フットサルなど
 
 　
 
