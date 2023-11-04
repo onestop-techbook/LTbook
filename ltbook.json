@@ -26,16 +26,21 @@
   "catalog": {
     "PREDEF": ["preface.re"],
     "CHAPS": [
-      "chap-oyakata-why.md",
       "chap-kawahara-ng.re",
       "chap-y_suzuki-ldl.md",
       "chap-oyakata-1stLT.md",
       "chap-iwamot-tldr.md",
+      "chap-iwamot-rta.md",
       "chap-jun-LT.md",
       "chap-bikiniki.md",
       "chap-yumechi-urawaza.re",
       "chap-kawamata-LTpowerword.md",
-      "chap-pauli_agile.md"
+      "chap-pauli_agile.md",
+      "chap-nakamura-kaisu.re",
+      "chap-picopico.md",
+      "chap-ditflame_LT_OO.md",
+	  "chap-oyakata-smallLT.md",
+	  "chap-oyakata-livecommentary.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }

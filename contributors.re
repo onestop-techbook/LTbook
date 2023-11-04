@@ -48,24 +48,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-大阪在住。SIerから社内SEになりましたが現在転職検討中…
-アマチュア無線に浸かりきっていた頃を思い出して書いてみました。なつい。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/erukiti_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        えるきち @erukiti https://twitter.com/erukiti\\
-        サークル名：東京ラビットハウス https://rabbit-house.tokyo/
-        \end{minipage}
-    \hspace{1ex}
-//}
-一時期は安くて使い勝手のよいマイコンを探してはQiitaにセットアップの記事を書いていたerukitiです。大体Lチカで終わるタイプの人です。ここ二年くらいは、せいぜい自作キーボードを組み立てた程度で、電子工作からは遠ざかってました。この本をきっかけに久々に何か作ってみるかという気持ちになったのできっと何か作るでしょう。きっと…。
-
+大阪在住。コミュニティで初登壇する羽目になったのは2010年だったと思うのですが、もう今となっては昔の悩んでた事は思い出せなくなってます。たいへんだったなという記憶だけが残っている……
 　
 
 //embed{
@@ -94,7 +77,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-2023年はAWS・SRE・生成系AIといったテーマで何度かLTしました。それを通じてスライド作りのスタイルが固まってきたため、文章化してみた次第です。自分の意見を手短に伝えられるLTが大好きなので、今後も機会を見つけて話そうと思っています。
+2023年はAWS・SRE・生成系AIといったテーマで何度かLTしました。それを通じて応募や資料作りのスタイルが固まってきたため、文章にしてみた次第です。自分の意見を手短に伝えられるLTが大好きなので、今後も機会を見つけて話そうと思っています。
 
 　
 
@@ -132,31 +115,81 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/pauli_agile_400x400.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/pauli.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         パウリ @pauli\_agile https://twitter.com/pauli\_agile\\
+		株式会社ビットキー
         \end{minipage}
     \hspace{1ex}
 //}
-株式会社ビットキー/ EM Oasis運営/アジャイルひよこクラブ運営/EM読書会運営/ アジャイルコーチやってるパウリです！エンジニアがいきがいと感じられるような組織・環境を構築したい！ 発言は個人の見解です
+株式会社ビットキーでEM、アジャイルコーチ、技術広報をしています
 
+人生ではeighter、Dヲタ、プリキュアおじさん、腐男子をしています
 
-== 表紙イラスト・デザイン　
+趣味はアニメ、カメラ、ディズニー、ゴルフ、サウナ、ダーツ、ボードゲーム、フットサルなど
+
+　
 
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/nakamura.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        湊川あい @llminatoll https://twitter.com/llminatoll\\
-        サークル名：湊川あいの、わかば家。 https://note.com/llminatoll
+        中村　修三 https://twitter.com/ShuzoN\_\_\\
         \end{minipage}
     \hspace{1ex}
 //}
-湊川あいです。今回も表紙イラストを担当させていただきました。ありがとうございます！
-コンデンサの画像を検索しながら、基板をそれっぽく描くのが楽しかったです。『積みタスク』もどうにかしたいです。
+必要な人に、違いと良さを伝える人。
+書く、図示、イベント運営、ハイブリッド配信が得意。CARTA HOLDINGS 技術広報
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yjszk.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Yuji Suzuki https://twitter.com/yjszk666\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+SREをやっています、競輪場でMacBookを広げていたら多分私です。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/jun_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        じゅん @jun\_mh4g https://twitter.com/jun\_mh4g\\
+        Hokkaido MotionControl Network (DoMCN)
+        \end{minipage}
+    \hspace{1ex}
+//}
+ハードルを下げる係。地方XR開発者コミュニティの運営・お知らせ担当をしています。他の地域のコミュニティの応援をしに、全国に出かけていく癖があります。電子顕微鏡がすき。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/kawamata.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        かわまた/DevRel @r\_kawamata https://twitter.com/r\_kawamata\\
+        株式会社タイミー
+        \end{minipage}
+    \hspace{1ex}
+//}
+エンジニア箱推し。仕事は推し活。タイミーのDevRelとして色んなカンファレンスに会社のお金をぶち込んでます。
+
+== 表紙イラスト・デザイン　
+
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている
