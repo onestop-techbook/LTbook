@@ -38,7 +38,8 @@
       "chap-nakamura-kaisu.re",
       "chap-picopico.md",
       "chap-ditflame_LT_OO.md",
-	  "chap-oyakata-smallLT.md"
+	  "chap-oyakata-smallLT.md",
+	  "chap-oyakata-livecommentary.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
