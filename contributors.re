@@ -57,13 +57,12 @@
         \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        さっぴー川原 @sapi https://twitter.com/sapi\\
+        さっぴー川原 @sapi https://twitter.com/sapi\_kawahara\\
         サークル名：ブライトシステム https://bright-system.booth.pm/
         \end{minipage}
     \hspace{1ex}
 //}
-ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業を経て、総合開発企業のシニアエンジニア。多くの案件を経験しており、対応できる開発言語は10を超える。
-
+ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業に転職。多くの案件を経験しており、対応できる開発言語は10を超える。得意言語はPerl、Python、PHP、Shell scriptなどがある。
 　
 
 //embed{
