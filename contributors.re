@@ -98,6 +98,22 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mkwrd_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Mark Ward @mkwrd https://twitter.com/mkwrd\\
+        Markin' Quality https://markin-quality.connpass.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+翻訳論を研究していた文系出身エンジニア。主要領域は品質保証とアジャイル開発。本業は株式会社グロービス。副業で複数の企業で品質アドバイザリー業務。2023年11月13日翻訳書籍『LEADING QUALITY』（KADOKAWA・2023）発売！
+
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/yumechi_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
