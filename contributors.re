@@ -203,6 +203,22 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
 //}
 エンジニア箱推し。仕事は推し活。タイミーのDevRelとして色んなカンファレンスに会社のお金をぶち込んでます。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/picopico.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        picopico @picopico\_dev https://twitter.com/picopico\_dev \\
+        ピクシブ株式会社
+        \end{minipage}
+    \hspace{1ex}
+//}
+23新卒PHPエンジニアで、最近はSREも兼務しています。
+
+
 == 表紙イラスト・デザイン　
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
