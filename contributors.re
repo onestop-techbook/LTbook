@@ -20,6 +20,17 @@
 
 == 発起人/編集
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ariaki.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
+    \end{minipage}
+    \hspace{1ex}
+//}
+コミュニティ「エンジニアの登壇を応援する会」を2018年8月から運営しています。コロナ禍で少しおやすみしてたけど今年から活動を再開したのでまた頑張るぞ！お土産の日本酒もってイベント遊びにきてください
 　
 //embed{
     \begin{minipage}{.1\linewidth}
