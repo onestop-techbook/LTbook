@@ -40,6 +40,13 @@
       "chap-picopico.md",
       "chap-ditflame_LT_OO.md",
 	  "chap-oyakata-smallLT.md",
+      "chap-oyakata-livecommentary.md",
+      "chap-ditflame-LT-reserve.md",
+      "chap-ditflame-LT-presentech.md",
+      "chap-ariaki.md",
+      "chap-mark.md",
+      "chap-mark-2.md",
+	  "chap-oyakata-smallLT.md",
 	  "chap-oyakata-livecommentary.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]

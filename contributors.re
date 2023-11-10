@@ -20,6 +20,17 @@
 
 == 発起人/編集
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ariaki.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
+    \end{minipage}
+    \hspace{1ex}
+//}
+コミュニティ「エンジニアの登壇を応援する会」を2018年8月から運営しています。コロナ禍で少しおやすみしてたけど今年から活動を再開したのでまた頑張るぞ！お土産の日本酒もってイベント遊びにきてください
 　
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -57,13 +68,12 @@
         \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        さっぴー川原 @sapi https://twitter.com/sapi\\
+        さっぴー川原 @sapi https://twitter.com/sapi\_kawahara\\
         サークル名：ブライトシステム https://bright-system.booth.pm/
         \end{minipage}
     \hspace{1ex}
 //}
-ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業を経て、総合開発企業のシニアエンジニア。多くの案件を経験しており、対応できる開発言語は10を超える。
-
+ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業に転職。多くの案件を経験しており、対応できる開発言語は10を超える。得意言語はPerl、Python、PHP、Shell scriptなどがある。
 　
 
 //embed{
@@ -93,6 +103,22 @@
     \hspace{1ex}
 //}
 ギリギリ大学4年生。技術コミュニティの運営を気ままにやっています。なんかずっと時間に追われているので、そろそろゆっくりバチカン市国でも行ってお休みしたいです。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mkwrd_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Mark Ward @mkwrd https://twitter.com/mkwrd\\
+        Markin' Quality https://markin-quality.connpass.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+翻訳論を研究していた文系出身エンジニア。主要領域は品質保証とアジャイル開発。本業は株式会社グロービス。副業で複数の企業で品質アドバイザリー業務。2023年11月13日翻訳書籍『LEADING QUALITY』（KADOKAWA・2023）発売！
+
 
 　
 
@@ -187,6 +213,22 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
     \hspace{1ex}
 //}
 エンジニア箱推し。仕事は推し活。タイミーのDevRelとして色んなカンファレンスに会社のお金をぶち込んでます。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/picopico.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        picopico @picopico\_dev https://twitter.com/picopico\_dev \\
+        ピクシブ株式会社
+        \end{minipage}
+    \hspace{1ex}
+//}
+23新卒PHPエンジニアで、最近はSREも兼務しています。
+
 
 == 表紙イラスト・デザイン　
 
