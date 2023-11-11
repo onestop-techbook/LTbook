@@ -1,6 +1,6 @@
 {
   "bookname": "Onestop-LT",
-  "booktitle": "ワンストップLT",
+  "booktitle": "LT秘伝の書",
   "aut": [],
   "language": "ja",
   "toc": true,
@@ -9,6 +9,7 @@
   "history": [["2023-11-25　初版"]],
   "pbl": "エンジニアの登壇を応援する会",
   "edt": "親方Project　@oyakata2438",
+  "prt": "K-9",
   "date": "2023-11-25",
   "secnolevel": 3,
   "titlepage": true,
