@@ -71,7 +71,7 @@
         \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        さっぴー川原 @sapi https://twitter.com/sapi\_kawahara\\
+        さっぴー川原 @sapi\_kawahara https://twitter.com/sapi\_kawahara\\
         サークル名：ブライトシステム https://bright-system.booth.pm/
         \end{minipage}
     \hspace{1ex}
