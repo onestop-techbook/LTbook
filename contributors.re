@@ -53,36 +53,6 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ふーれむ @ditflame https://twitter.com/ditflame\\
-        Qiitaでちょこちょこ技術ネタ書いたりしてます。 https://qiita.com/ditflame\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-大阪在住。コミュニティで初登壇する羽目になったのは2010年だったと思うのですが、もう今となっては昔の悩んでた事は思い出せなくなってます。たいへんだったなという記憶だけが残っている……
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        さっぴー川原 @sapi https://twitter.com/sapi\_kawahara\\
-        サークル名：ブライトシステム https://bright-system.booth.pm/
-        \end{minipage}
-    \hspace{1ex}
-//}
-ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業に転職。多くの案件を経験しており、対応できる開発言語は10を超える。得意言語はPerl、Python、PHP、Shell scriptなどがある。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/iwamot_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -233,6 +203,50 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
 //}
 23新卒PHPエンジニアで、最近はSREも兼務しています。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nikkie_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        nikkie（にっきー） @ftnext https://twitter.com/ftnext\\
+        ブログ https://nikkie-ftnext.hatenablog.com/
+        \end{minipage}
+    \hspace{1ex}
+//}
+Pythonとアニメが好き。"ソフト"ウェアを作ることに想いがあります。最近はミリオンライブ！の仕掛け人を再開
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        さっぴー川原 @sapi https://twitter.com/sapi\_kawahara\\
+        サークル名：ブライトシステム https://bright-system.booth.pm/
+        \end{minipage}
+    \hspace{1ex}
+//}
+ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業に転職。多くの案件を経験しており、対応できる開発言語は10を超える。得意言語はPerl、Python、PHP、Shell scriptなどがある。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ditflame_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ふーれむ @ditflame https://twitter.com/ditflame\\
+        Qiitaでちょこちょこ技術ネタ書いたりしてます。 https://qiita.com/ditflame\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+大阪在住。コミュニティで初登壇する羽目になったのは2010年だったと思うのですが、もう今となっては昔の悩んでた事は思い出せなくなってます。たいへんだったなという記憶だけが残っている……
 
 == 表紙イラスト・デザイン　
 //embed{
