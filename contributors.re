@@ -23,7 +23,7 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/ariaki.png}
+        \includegraphics[width=.75\linewidth]{images/contributors/ariaki4dev.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ariaki @ariaki4dev https://twitter.com/ariaki4dev\\
@@ -31,7 +31,9 @@
     \hspace{1ex}
 //}
 コミュニティ「エンジニアの登壇を応援する会」を2018年8月から運営しています。コロナ禍で少しおやすみしてたけど今年から活動を再開したのでまた頑張るぞ！お土産の日本酒もってイベント遊びにきてください
+
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -60,6 +62,7 @@
     \hspace{1ex}
 //}
 大阪在住。コミュニティで初登壇する羽目になったのは2010年だったと思うのですが、もう今となっては昔の悩んでた事は思い出せなくなってます。たいへんだったなという記憶だけが残っている……
+
 　
 
 //embed{
@@ -74,6 +77,7 @@
     \hspace{1ex}
 //}
 ファミコンゲームの開発時代からのエンジニア。iモード登場時にはIT企業を経て、SESで大手IT企業で常駐を経験。その後はスタートアップ企業に転職。多くの案件を経験しており、対応できる開発言語は10を超える。得意言語はPerl、Python、PHP、Shell scriptなどがある。
+
 　
 
 //embed{
@@ -231,6 +235,19 @@ SREをやっています、競輪場でMacBookを広げていたら多分私で�
 
 
 == 表紙イラスト・デザイン　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/tokage.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        トカゲ @Hiro\_Sauria https://twitter.com/Hiro\_Sauria\\
+        サークル名：冬眠ホタル
+        \end{minipage}
+    \hspace{1ex}
+//}
+表紙イラスト・デザインを担当させていただきましたトカゲです。普段は民家に住み、有機物を食べながら慎ましく暮らしてます。今回、親方Project様オリジナルキャラクターのワンストップちゃん（かわいい）を公式依頼で描けたのは、今生で一番うれし〜出来事です！！来世でも描きたいですね。
+
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 

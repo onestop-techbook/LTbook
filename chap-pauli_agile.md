@@ -72,7 +72,7 @@ LTではAさんが「サッカーとフットサルの違いと共通点」を�
 
 目的に沿って自分にあった手法はなにか試してみましょう。
 
-![ChatGPTを用いたコーチング例](images/chap-pauli_agile/gpt.png)
+![ChatGPTを用いたコーチング例](images/chap-pauli_agile/gpt.png?scale=0.8)
 
 
 ### LTをまとめる際のフォーマット
@@ -90,7 +90,7 @@ LTの意義もネタのため方をわかったが、最初の一歩が踏み出
 
 具体例がないと分かりづらいと思いますので、実際に私が「X倍の速度で読了！？チームだからできるアクティブ・ブック・ダイアローグ！改」[^LT]という社外向けのLTをした際の資料作成の背景を例にしてみます。
 
-[^LT]: https://speakerdeck.com/pauli/read-x-times-faster-active-book-dialogue-because-we-are-a-team-revision
+[^LT]: X倍の速度で読了！？チームだからできるアクティブ・ブック・ダイアローグ！改 Spekerdeck https://speakerdeck.com/pauli/read-x-times-faster-active-book-dialogue-because-we-are-a-team-revision
 
 1. 「ABD × ふりかえり」で早く確実に行動に移す手法を伝えたい
 2. 以下のような経験をした
@@ -121,7 +121,7 @@ LTの意義もネタのため方をわかったが、最初の一歩が踏み出
 
 ちなみに私はVisual Studio Codeというエディター及びMarp for VS Codeというアドオンでスライドを作成しています。
 
-これらのツールの詳しい説明は文量と執筆者の体力の都合で割愛させていただきますが、検索すれば使い方は出てくるので是非調べてみてください。
+これらのツールの詳しい説明は文量と紙幅の都合で割愛させていただきますが、検索すれば使い方は出てくるので是非調べてみてください。
 
 ## まとめ
 
