@@ -226,7 +226,7 @@ Pythonとアニメが好き。"ソフト"ウェアを作ることに想いがあ
         \includegraphics[width=.75\linewidth]{images/contributors/sapi_kawahara.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        さっぴー川原 @sapi https://twitter.com/sapi\_kawahara\\
+        さっぴー川原 @sapi\_kawaharahttps://twitter.com/sapi\_kawahara\\
         サークル名：ブライトシステム https://bright-system.booth.pm/
         \end{minipage}
     \hspace{1ex}
@@ -260,8 +260,9 @@ Pythonとアニメが好き。"ソフト"ウェアを作ることに想いがあ
         \end{minipage}
     \hspace{1ex}
 //}
-表紙イラスト・デザインを担当させていただきましたトカゲです。普段は民家に住み、有機物を食べながら慎ましく暮らしてます。今回、親方Project様オリジナルキャラクターのワンストップちゃん（かわいい）を公式依頼で描けたのは、今生で一番うれし〜出来事です！！来世でも描きたいですね。
+表紙イラスト・デザインを描かせていただきましたトカゲです。今回の表紙は、思わず手に取って開きたくなるようなワクワクする表紙を目指しました！
 
+イチオシは、ワンストップちゃんがうわ靴のかかとを踏んでるところです！転んでちょっと泣きそうになるきみを見たい～
 
 #@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
